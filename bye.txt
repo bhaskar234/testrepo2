@@ -3,3 +3,6 @@ byeee
 Added text
 
 Added again
+
+
+This text should be visible in new branch only (lets say temp1)(before merging)
