@@ -1,2 +1,3 @@
 this is a test file
 this sample text is added from abc branch with blah blah blah
+this is common things to both but first added to branch abc
